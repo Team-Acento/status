@@ -24,7 +24,7 @@ status-website:
   introMessage: See Live Status, Incidents And Scheduled Maintenance!
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Website
       href: https://acento.us/
 
