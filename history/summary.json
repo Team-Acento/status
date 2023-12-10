@@ -58,19 +58,19 @@
     "url": "https://acento.sectly1.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/acento.sectly1.repl.co.ico",
     "slug": "developer-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 766,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
+    "time": 464,
+    "timeDay": 650,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-12-10": 0
+      "2023-12-10": 25
     }
   }
 ]
